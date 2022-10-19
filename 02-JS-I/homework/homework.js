@@ -78,7 +78,6 @@ function tienenMismaLongitud(str1, str2) {
   } else { 
     return false;
   }
-  
 }
 
 
