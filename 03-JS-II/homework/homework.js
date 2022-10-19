@@ -200,12 +200,10 @@ function doWhile(numero) {
   //Retornar el valor final.
   //Usar el bucle do ... while.
   var i=0;
-  var n;
-  do { n = numero +5
+  do { numero  = numero +5
       i = i + 1;}
   while(i < 8)
-    n = numero + i*5;
-    return n;
+    return numero;
 }
 
 
